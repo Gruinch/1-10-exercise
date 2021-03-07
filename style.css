@@ -88,4 +88,10 @@ footer {
   .main-item:last-child {
     margin: 0 auto;
   }
+
+  .step-image1,
+  .step-image2,
+  .step-image3 {
+    background-position: center;
+  }
 }
